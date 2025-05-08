@@ -109,8 +109,8 @@ footer .content .media-icons a{
   border-color: #eb2f06;
 }
 footer .bottom{
-  width: 10%;
-  text-align: right;
+  width: 100%;
+  text-align: center;
   color: black;
   padding: 0 40px 5px 0;
   
